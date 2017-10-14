@@ -1,0 +1,30 @@
+{
+  "name": "yarn-or-die",
+  "version": "0.0.0",
+  "description": "Force using yarn instead of npm",
+  "main": "index.js",
+  "bin": {
+    "yarn-or-die": "index.js"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glenngr/yarn-or-die.git"
+  },
+  "keywords": [
+    "Force",
+    "using",
+    "yarn",
+    "instead",
+    "of",
+    "npm"
+  ],
+  "author": "Glenn Greibesland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glenngr/yarn-or-die/issues"
+  },
+  "homepage": "https://github.com/glenngr/yarn-or-die#readme"
+}
