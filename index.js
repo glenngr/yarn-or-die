@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const usingYarn = process.env.npm_execpath.indexOf('yarn') !== -1;
+const usingYarn = process.env.npm_config_user_agent.indexOf('yarn') !== -1;
 
 if (!usingYarn) {
     throw new Error('You have to use Yarn instead of NPM for this command');
