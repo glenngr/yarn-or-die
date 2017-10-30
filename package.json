@@ -17,10 +17,13 @@
   "keywords": [
     "Force",
     "using",
+    "use",
     "yarn",
     "instead",
     "of",
-    "npm"
+    "npm",
+    "die",
+    "kill"
   ],
   "author": "Glenn Greibesland",
   "license": "MIT",
