@@ -1,6 +1,6 @@
 {
   "name": "yarn-or-die",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Force using yarn instead of npm",
   "main": "index.js",
   "bin": {
