@@ -7,7 +7,8 @@
     "yarn-or-die": "index.js"
   },
   "scripts": {
-    "test": "node index.js"
+    "test": "node index.js",
+    "test2": "yarn test"
   },
   "repository": {
     "type": "git",
